@@ -1,4 +1,4 @@
-# 🛒 E-Com Fullstack — Modern E-Commerce Web Application
+# 🛒 E-Com Fullstack — Modern E-Commerce Web Application by SpringBoot
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Spring%20Boot-orange?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
